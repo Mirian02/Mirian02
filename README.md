@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on growing CyberFems Community. <br>👯 I’m looking to collaborate on other Cloud migration with other CyberSecurity Analyst<br>🤝 I’m looking for help with developing a deep learning model to detect malware attacks<br>🌱 I’m currently learning Python for Machine Learning<br>💬 Ask me about AWS Architecture and Pentesting<br>⚡ Fun fact - I am a goal getter
+🔭 I’m currently working on growing CyberFems Community. <br>👯 I’m looking to collaborate on Cloud migration with other CyberSecurity Analyst<br>🤝 I’m looking for help with developing a deep learning model to detect malware attacks<br>🌱 I’m currently learning Python for Machine Learning<br>💬 Ask me about AWS Architecture and Pentesting<br>⚡ Fun fact - I am a goal getter
 
 
 ## 🌐 Socials:
