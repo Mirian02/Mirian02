@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Cloud Security Professional. <br>👯 I’m looking to collaborate on Cloud migration with other Cloud Engineers<br>🤝 I’m looking for help with developing a deep learning model to detect malware attacks<br>🌱 I’m currently learning Python for Machine Learning<br>💬 Ask me about AWS Architecture and Pentesting<br>⚡ Fun fact - I am a goal getter
+🔭 Cloud Security Professional. <br>👯 I’m looking to collaborate on Cloud migration with other Cloud Engineers<br>🤝 I’m looking for help with developing a deep learning model to detect malware attacks<br>🌱 I’m currently writing a blog for Bazel configuration <br>💬 Ask me about AWS Architecture and Oracle Cloud<br>⚡ Fun fact - I am a goal getter
 
 
 
